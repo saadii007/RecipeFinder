@@ -1,6 +1,6 @@
-# Food Recipe Generator
+# AI Recipe Finder
 
-The Food Recipe Generator is a web application that generates recipes based on user preferences. Users can input their age, height, weight, fitness goals, food preferences, cuisine types, and dietary restrictions to receive customized recipes tailored to their needs. The application allows users to specify the number of recipes they want to generate.
+This is a web application that generates recipes based on user preferences. Users can input their age, height, weight, fitness goals, food preferences, cuisine types, and dietary restrictions to receive customized recipes tailored to their needs. The application allows users to specify the number of recipes they want to generate.
 
 ## Features
 
